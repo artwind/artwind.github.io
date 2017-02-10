@@ -1,0 +1,7 @@
+*{padding:0px;margin:0px}
+img{border:none}
+#content{width:1200px;margin:0px auto;overflow:hidden}
+.waterfall{width:1212px}
+.dym-dl{width:290px;height:900px;padding-right:12px;float:left;overflow:hidden;position:relative}
+.dym{border:1px solid #ceeaff;background:#f7f7f7;height:auto;padding:6px;margin:0px 12px 12px 0px;float: left;overflow:hidden;display:inline}
+.dym img{max-width:260px;_width:260px}
